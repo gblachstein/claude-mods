@@ -9,6 +9,8 @@ Works in the Claude desktop app only (the terminal version has no band above the
 
 ![jeanCLAUDE dancing above the prompt box in the Claude desktop app](docs/screenshot.png)
 
+Tip: the animation looks best with a light theme. On a dark theme the edges of the GIF can stand out.
+
 ### Install
 
 In Claude Code (desktop app), run:
