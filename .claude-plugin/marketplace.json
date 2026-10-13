@@ -1,0 +1,13 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "gblachstein" },
+  "metadata": { "description": "My own Claude Code mods, read straight from this folder." },
+  "plugins": [
+    {
+      "name": "jeanCLAUDE",
+      "source": "./jeanCLAUDE",
+      "description": "Dancing GIF above the prompt that moves while Claude works and freezes when it stops.",
+      "version": "0.2.1"
+    }
+  ]
+}
