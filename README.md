@@ -7,6 +7,8 @@ My Claude Code mods, shared as a plugin marketplace called `my-mods`.
 A dancing GIF in the band above the prompt. It dances while Claude is working and freezes when Claude stops.
 Works in the Claude desktop app only (the terminal version has no band above the prompt).
 
+![jeanCLAUDE dancing above the prompt box in the Claude desktop app](docs/screenshot.png)
+
 ### Install
 
 In Claude Code (desktop app), run:
